@@ -1,0 +1,4 @@
+include ':tabs'
+include ':dialog'
+include ':app'
+rootProject.name = "MultiScreen"
